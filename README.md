@@ -200,6 +200,15 @@ These metrics measure how effectively the system distinguishes genuine signature
 
 ---
 
+## Results
+
+The Siamese Neural Network successfully learns similarity relationships between genuine and forged signatures using embedding distance comparison.
+
+GAN-generated synthetic signatures improved dataset diversity and strengthened model generalization capability.
+
+The model demonstrates strong applicability for automated signature verification workflows used in banking fraud detection environments such as cheque verification, KYC validation, and loan document authentication.
+
+
 ## Banking Fraud Detection Applications
 
 This solution supports real-world verification workflows including:
