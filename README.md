@@ -236,7 +236,13 @@ Train on large-scale multi-writer signature datasets
 Optimize similarity threshold tuning for production deployment
 
 ---
+## Project Structure
 
+Fake-Signature-Detection
+│
+├── fake_signature_detection_siamese_gan.ipynb
+├── README.md
+└── requirements.txt
 ## Author
 
 Sneha Kolge
